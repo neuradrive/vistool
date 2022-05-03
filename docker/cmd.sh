@@ -1,0 +1,1 @@
+docker run -ti --rm  -v $(dirname $(pwd)):/ws ros:galactic-ros-base-focal /bin/bash

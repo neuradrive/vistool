@@ -1,0 +1,6 @@
+
+basic_config:
+  bev_width: 200
+  bev_height: 400
+  pixel_meter: 0.01
+  class_nums: 10
