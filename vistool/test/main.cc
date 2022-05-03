@@ -40,6 +40,8 @@ void viz_test(int thread_id) {
         viz->obstacles->clear();
         viz->obstacles->push_back(obj_test);
         viz->cvDisplay(frame);
+        // viz->cvSaveImage(frame);
+	// viz->cvSaveVideo(frame);
         frame++;
         std::this_thread::sleep_for(std::chrono::milliseconds(50));
     }

@@ -4,9 +4,6 @@ set(CMAKE_VERBOSE_MAKEFILE ON)
 
 set(PROJECT_NAME "vistool")
 
-set(TOP_SRC ${CMAKE_CURRENT_SOURCE_DIR})
-set(TOP_OUT ${CMAKE_CURRENT_BINARY_DIR})
-
 set(CMAKE_CXX_FLAGS "${CMAKE_CXX_FLAGS} -std=c++14 -Ofast -Wfatal-errors")
 
 #OpenCV
