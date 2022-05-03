@@ -3,20 +3,15 @@
 ### Features  
 
 1. Basic Features  
-    [x] CV Draw  
-    [] GL Draw  
-    [] YAML Config  
-    [] ROS 1 Demo  
-    [] ROS 2 Demo  
-    [] QT  
-    [] Protobuf    
+- [x] CV Draw  
+- [ ] GL Draw  
+- [ ] YAML Config  
+- [ ] ROS 1 Demo  
+- [ ] ROS 2 Demo  
+- [ ] QT  
+- [ ] Protobuf    
 
-2. Functions  
-    [x] CV Draw  
-    [x] CV Image Dump
-    []  CV Save to Video  
-
-### Get Start  
+### Getting Start  
 
 1. build from source & test  
 
