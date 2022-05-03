@@ -11,11 +11,6 @@
 - [ ] QT  
 - [ ] Protobuf    
 
-2. Functions  
-- [x] CV Draw  
-- [x] CV Image Dump
-- [ ]  CV Save to Video  
-
 ### Getting Start  
 
 1. build from source & test  
