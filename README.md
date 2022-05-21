@@ -12,6 +12,12 @@
 - [ ] QT  
 - [ ] Protobuf    
 
+2. Functional Features
+- [ ] Obstacle
+- [ ] Traffic Signs
+- [ ] Lane
+- [ ] Freespace
+
 ### Getting Start  
 
 1. build from source & test  
