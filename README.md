@@ -17,6 +17,7 @@
 - [ ] Traffic Signs
 - [ ] Lane
 - [ ] Freespace
+- [ ] HDmap
 
 ### Getting Start  
 
